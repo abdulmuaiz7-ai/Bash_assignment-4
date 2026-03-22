@@ -11,24 +11,25 @@ python nmap_scanner.py
 
 ## Screenshots
 
+
 ### Ping Output
-![Ping](screenshots/ping.png)
+
+### **<img src="https://github.com/abdulmuaiz7-ai/Bash_assignment-4.git/raw/master/screenshots/ping.png" width="600">**
+### **<img src="https://github.com/abdulmuaiz7-ai/Bash_assignment-4.git/raw/master/screenshots/ping.png" width="600">**
+
+
 
 ### ARP Output
-![ARP](screenshots/arp.png)
+### **<img src="https://github.com/abdulmuaiz7-ai/Bash_assignment-4.git/raw/master/screenshots/arp.png" width="600">**
+### **<img src="https://github.com/abdulmuaiz7-ai/Bash_assignment-4.git/raw/master/screenshots/arp.png" width="600">>**
+
 
 ### Nmap Output
-![Nmap](screenshots/nmap.png)
+### **<img src="https://github.com/abdulmuaiz7-ai/Bash_assignment-4.git/raw/master/screenshots/nmap.png" width="600">**
+### **<img src="https://github.com/abdulmuaiz7-ai/Bash_assignment-4.git/raw/master/screenshots/nmap.png" width="600">**
 
 
 
-### **<img src="https://github.com/D1228k/bash\_assignment/raw/master/screenshots/ping.png" width="600">**
-### **<img src="https://github.com/D1228k/bash_assignment/raw/master/screenshots/ping.png" width="600">**
 
 
-### **<img src="https://github.com/D1228k/bash\_assignment/raw/master/screenshots/arp.png" width="600">**
-### **<img src="https://github.com/D1228k/bash_assignment/raw/master/screenshots/arp.png" width="600">>**
-
-### **<img src="https://github.com/D1228k/bash\_assignment/raw/master/screenshots/nmap.png" width="600">**
-### **<img src="https://github.com/D1228k/bash_assignment/raw/master/screenshots/nmap.png" width="600">**
 
